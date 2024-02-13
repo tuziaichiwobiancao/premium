@@ -6,7 +6,7 @@
 
 系统演示:
 
-演示后台:https://premium.hyperindex.tk/wocaole.php  用户名:admin    密码:Qwe123123
+演示后台:https://premium.kime.eu.org/wocaole.php  用户名:admin    密码:Qwe123123
 
 演示机器人:https://t.me/zizhuprime_bot
 
