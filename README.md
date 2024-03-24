@@ -24,4 +24,4 @@
 
 演示图片
 
-![演示图片](https://images.gitee.com/uploads/images/2020/0929/202947_8db2d281_10933.gif "演示图片")
+![演示图片](https://github.com/tuziaichiwobiancao/premium/blob/main/photo_2024-03-24_23-30-25.jpg "演示图片")
