@@ -10,6 +10,8 @@
 
 演示机器人:https://t.me/zizhuprime_bot
 
+客户正在运营的机器人:https://t.me/TOPninePremiunbot
+
 获取hash和cookie教程:https://www.oo-uu.cc/ask/219.html 右下角点击显示全部即可全部展示
 
 在项目根目录下/ton/.env配置好ton助记词
@@ -19,3 +21,7 @@
 在宝塔的软件商店进程守护管理器，执行./ton/main即可，在后台自助开通会员处的api填写http://127.0.0.1:8888
 
 - 联系客服TG:https://t.me/buzhiguiqi
+
+演示图片
+
+![演示图片](https://images.gitee.com/uploads/images/2020/0929/202947_8db2d281_10933.gif "演示图片")
